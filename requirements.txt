@@ -1,0 +1,8 @@
+aiohttp
+asyncpg
+SQLAlchemy
+redis
+pydantic
+alembic
+pytest
+pytest-asyncio
